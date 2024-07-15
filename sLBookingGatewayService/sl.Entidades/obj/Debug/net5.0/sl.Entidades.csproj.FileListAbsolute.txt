@@ -9,3 +9,15 @@ C:\Users\dmorales-ext\source\repos\sLBookingGatewayService\sl.Entidades\obj\Debu
 C:\Users\dmorales-ext\source\repos\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\refint\sl.Entidades.dll
 C:\Users\dmorales-ext\source\repos\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\sl.Entidades.pdb
 C:\Users\dmorales-ext\source\repos\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\ref\sl.Entidades.dll
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\bin\Debug\net5.0\sl.Entidades.deps.json
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\bin\Debug\net5.0\sl.Entidades.dll
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\bin\Debug\net5.0\sl.Entidades.pdb
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\sl.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\sl.Entidades.AssemblyInfoInputs.cache
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\sl.Entidades.AssemblyInfo.cs
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\sl.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\sl.Entidades.sourcelink.json
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\sl.Entidades.dll
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\refint\sl.Entidades.dll
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\sl.Entidades.pdb
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.Entidades\obj\Debug\net5.0\ref\sl.Entidades.dll

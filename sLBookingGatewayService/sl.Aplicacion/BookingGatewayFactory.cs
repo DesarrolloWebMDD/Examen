@@ -10,6 +10,7 @@ namespace sl.Aplicacion
 {
     public class BookingGatewayFactory
     {
+       
         public IBookingGateway CreateBookingGateway()
         {
             return new BookingGateway();

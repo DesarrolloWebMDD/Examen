@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\sl.BdConexion\sl.BdConexion.csproj" />
     <ProjectReference Include="..\sl.Entidades\sl.Entidades.csproj" />
   </ItemGroup>
 

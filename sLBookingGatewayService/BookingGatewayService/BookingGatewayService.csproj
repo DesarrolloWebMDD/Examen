@@ -5,11 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.17" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\sl.Aplicacion\sl.Aplicacion.csproj" />
+    <ProjectReference Include="..\sl.BdConexion\sl.BdConexion.csproj" />
     <ProjectReference Include="..\sl.Entidades\sl.Entidades.csproj" />
     <ProjectReference Include="..\sL.Repositorio\sL.Repositorio.csproj" />
   </ItemGroup>

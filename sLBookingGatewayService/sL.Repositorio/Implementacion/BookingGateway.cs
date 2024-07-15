@@ -15,6 +15,8 @@ namespace sL.Repositorio.Implementacion
         private bool isReadOperationInProgress = false;
         private readonly IDBRepository repository;
 
+        
+
         public void StartBooking()
         {
             lock (this)
@@ -38,18 +40,19 @@ namespace sL.Repositorio.Implementacion
 
         public BookingStatus GetBookingStatus(string bookingId)
         {
+           
+           BookingStatus status = new BookingStatus();
             lock (this)
             {
                 if (isBookingInProgress)
                 {
-                    throw new ReadOperationInProgressException();
+                    throw new BookingInProgressException();
                 }
-
+                status = repository.GetStatus(bookingId);
                 isReadOperationInProgress = true;
 
                 // Simular algún tipo de lógica para obtener el estado de la reserva
-                BookingStatus status = new BookingStatus(); // Supongamos que BookingStatus es una clase o struct que contiene el estado
-
+              // Supongamos que BookingStatus es una clase o struct que contiene el estado
                 isReadOperationInProgress = false;
 
                 return status;

@@ -1,0 +1,16 @@
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\bin\Debug\net5.0\sl.BdConexion.deps.json
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\bin\Debug\net5.0\sl.BdConexion.dll
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\bin\Debug\net5.0\sl.BdConexion.pdb
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\bin\Debug\net5.0\sl.Entidades.dll
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\bin\Debug\net5.0\sl.Entidades.pdb
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\obj\Debug\net5.0\sl.BdConexion.csproj.AssemblyReference.cache
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\obj\Debug\net5.0\sl.BdConexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\obj\Debug\net5.0\sl.BdConexion.AssemblyInfoInputs.cache
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\obj\Debug\net5.0\sl.BdConexion.AssemblyInfo.cs
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\obj\Debug\net5.0\sl.BdConexion.csproj.CoreCompileInputs.cache
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\obj\Debug\net5.0\sl.BdConexion.sourcelink.json
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\obj\Debug\net5.0\sl.BdCon.13C909B6.Up2Date
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\obj\Debug\net5.0\sl.BdConexion.dll
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\obj\Debug\net5.0\refint\sl.BdConexion.dll
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\obj\Debug\net5.0\sl.BdConexion.pdb
+C:\Users\dmorales-ext\Documents\Examen\Examen\sLBookingGatewayService\sl.BdConexion\obj\Debug\net5.0\ref\sl.BdConexion.dll
