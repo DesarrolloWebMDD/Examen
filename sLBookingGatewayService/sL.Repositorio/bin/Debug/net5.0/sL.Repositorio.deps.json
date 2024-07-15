@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sL.Repositorio/1.0.0": {
+        "dependencies": {
+          "sl.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "sL.Repositorio.dll": {}
+        }
+      },
+      "sl.Entidades/1.0.0": {
+        "runtime": {
+          "sl.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sL.Repositorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sl.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

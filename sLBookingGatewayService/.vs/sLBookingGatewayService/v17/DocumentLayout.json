@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57A06E6A-DC0B-4BD0-B05A-7CE52673C208}|BookingGatewayService\\BookingGatewayService.csproj|c:\\users\\dmorales-ext\\source\\repos\\slbookinggatewayservice\\bookinggatewayservice\\controllers\\bookingrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A06E6A-DC0B-4BD0-B05A-7CE52673C208}|BookingGatewayService\\BookingGatewayService.csproj|solutionrelative:bookinggatewayservice\\controllers\\bookingrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0071657-084C-4C2D-A8B5-DCA9C7164325}|sL.Repositorio\\sL.Repositorio.csproj|c:\\users\\dmorales-ext\\source\\repos\\slbookinggatewayservice\\sl.repositorio\\interfaz\\ibookinggateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0071657-084C-4C2D-A8B5-DCA9C7164325}|sL.Repositorio\\sL.Repositorio.csproj|solutionrelative:sl.repositorio\\interfaz\\ibookinggateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A06E6A-DC0B-4BD0-B05A-7CE52673C208}|BookingGatewayService\\BookingGatewayService.csproj|c:\\users\\dmorales-ext\\source\\repos\\slbookinggatewayservice\\bookinggatewayservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A06E6A-DC0B-4BD0-B05A-7CE52673C208}|BookingGatewayService\\BookingGatewayService.csproj|solutionrelative:bookinggatewayservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0071657-084C-4C2D-A8B5-DCA9C7164325}|sL.Repositorio\\sL.Repositorio.csproj|c:\\users\\dmorales-ext\\source\\repos\\slbookinggatewayservice\\sl.repositorio\\implementacion\\bookinggateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0071657-084C-4C2D-A8B5-DCA9C7164325}|sL.Repositorio\\sL.Repositorio.csproj|solutionrelative:sl.repositorio\\implementacion\\bookinggateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6601D58-5825-498B-BA42-CEA630D85D02}|sl.Entidades\\sl.Entidades.csproj|c:\\users\\dmorales-ext\\source\\repos\\slbookinggatewayservice\\sl.entidades\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6601D58-5825-498B-BA42-CEA630D85D02}|sl.Entidades\\sl.Entidades.csproj|solutionrelative:sl.entidades\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0071657-084C-4C2D-A8B5-DCA9C7164325}|sL.Repositorio\\sL.Repositorio.csproj|c:\\users\\dmorales-ext\\source\\repos\\slbookinggatewayservice\\sl.repositorio\\implementacion\\dbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0071657-084C-4C2D-A8B5-DCA9C7164325}|sL.Repositorio\\sL.Repositorio.csproj|solutionrelative:sl.repositorio\\implementacion\\dbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A06E6A-DC0B-4BD0-B05A-7CE52673C208}|BookingGatewayService\\BookingGatewayService.csproj|c:\\users\\dmorales-ext\\source\\repos\\slbookinggatewayservice\\bookinggatewayservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57A06E6A-DC0B-4BD0-B05A-7CE52673C208}|BookingGatewayService\\BookingGatewayService.csproj|solutionrelative:bookinggatewayservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6601D58-5825-498B-BA42-CEA630D85D02}|sl.Entidades\\sl.Entidades.csproj|c:\\users\\dmorales-ext\\source\\repos\\slbookinggatewayservice\\sl.entidades\\bookingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6601D58-5825-498B-BA42-CEA630D85D02}|sl.Entidades\\sl.Entidades.csproj|solutionrelative:sl.entidades\\bookingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3471920E-B37D-4E7D-BD98-B70BA8B936FE}|sl.Aplicacion\\sl.Aplicacion.csproj|c:\\users\\dmorales-ext\\source\\repos\\slbookinggatewayservice\\sl.aplicacion\\bookinggatewayfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3471920E-B37D-4E7D-BD98-B70BA8B936FE}|sl.Aplicacion\\sl.Aplicacion.csproj|solutionrelative:sl.aplicacion\\bookinggatewayfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\BookingGatewayService\\Startup.cs",
+              "RelativeDocumentMoniker": "BookingGatewayService\\Startup.cs",
+              "ToolTip": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\BookingGatewayService\\Startup.cs",
+              "RelativeToolTip": "BookingGatewayService\\Startup.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwCEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:34:35.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\BookingGatewayService\\Controllers\\BookingRequestController.cs",
+              "RelativeDocumentMoniker": "BookingGatewayService\\Controllers\\BookingRequestController.cs",
+              "ToolTip": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\BookingGatewayService\\Controllers\\BookingRequestController.cs",
+              "RelativeToolTip": "BookingGatewayService\\Controllers\\BookingRequestController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:57:36.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingGateway.cs",
+              "DocumentMoniker": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sL.Repositorio\\Implementacion\\BookingGateway.cs",
+              "RelativeDocumentMoniker": "sL.Repositorio\\Implementacion\\BookingGateway.cs",
+              "ToolTip": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sL.Repositorio\\Implementacion\\BookingGateway.cs",
+              "RelativeToolTip": "sL.Repositorio\\Implementacion\\BookingGateway.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:50:35.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sL.Repositorio\\Implementacion\\DBRepository.cs",
+              "RelativeDocumentMoniker": "sL.Repositorio\\Implementacion\\DBRepository.cs",
+              "ToolTip": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sL.Repositorio\\Implementacion\\DBRepository.cs",
+              "RelativeToolTip": "sL.Repositorio\\Implementacion\\DBRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:06:31.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\BookingGatewayService\\appsettings.json",
+              "RelativeDocumentMoniker": "BookingGatewayService\\appsettings.json",
+              "ToolTip": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\BookingGatewayService\\appsettings.json",
+              "RelativeToolTip": "BookingGatewayService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T14:56:01.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingGatewayFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sl.Aplicacion\\BookingGatewayFactory.cs",
+              "RelativeDocumentMoniker": "sl.Aplicacion\\BookingGatewayFactory.cs",
+              "ToolTip": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sl.Aplicacion\\BookingGatewayFactory.cs",
+              "RelativeToolTip": "sl.Aplicacion\\BookingGatewayFactory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:53:24.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookingGateway.cs",
+              "DocumentMoniker": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sL.Repositorio\\Interfaz\\IBookingGateway.cs",
+              "RelativeDocumentMoniker": "sL.Repositorio\\Interfaz\\IBookingGateway.cs",
+              "ToolTip": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sL.Repositorio\\Interfaz\\IBookingGateway.cs",
+              "RelativeToolTip": "sL.Repositorio\\Interfaz\\IBookingGateway.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vw4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:01:04.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingData.cs",
+              "DocumentMoniker": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sl.Entidades\\BookingData.cs",
+              "RelativeDocumentMoniker": "sl.Entidades\\BookingData.cs",
+              "ToolTip": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sl.Entidades\\BookingData.cs",
+              "RelativeToolTip": "sl.Entidades\\BookingData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:33:08.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingStatus.cs",
+              "DocumentMoniker": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sl.Entidades\\BookingStatus.cs",
+              "RelativeDocumentMoniker": "sl.Entidades\\BookingStatus.cs",
+              "ToolTip": "C:\\Users\\dmorales-ext\\source\\repos\\sLBookingGatewayService\\sl.Entidades\\BookingStatus.cs",
+              "RelativeToolTip": "sl.Entidades\\BookingStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:38:41.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
